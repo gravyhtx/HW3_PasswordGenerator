@@ -13,7 +13,7 @@ User will be presented with series of prompts for password criteria
 
 ## Prompt user for password length
 
-![plot](./assets/Prompt.PNG)
+![Alt Text](assets/Prompt.PNG?raw=true "Title")
 
 ## Confirm lowercase letters
 
